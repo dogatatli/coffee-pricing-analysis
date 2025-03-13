@@ -16,6 +16,7 @@ The dataset includes:
 •	Quantity_Purchased: Number of units purchased in each order
 •	Purchase_Frequency: Number of times a customer makes a coffee purchase within a given period
 •	Region: Location where the purchase was made
+•	Dataset Link: https://www.kaggle.com/datasets/halaturkialotaibi/coffee-bean-sales-dataset
 4. Tools & Methodologies
 •	Data Cleaning & Preparation: Python (Pandas, NumPy), SQL for preprocessing
 •	Exploratory Data Analysis (EDA): Descriptive statistics, visualization (Matplotlib, Seaborn, Tableau/Power BI)
@@ -30,3 +31,4 @@ The dataset includes:
 6. Conclusion
 By analyzing coffee bean sales data, this study will provide actionable insights into how pricing affects customer purchasing decisions. The findings will assist coffee retailers and producers in refining their pricing models, targeting the right customer segments, and enhancing overall sales performance.
 
+![image](https://github.com/user-attachments/assets/eba339a3-8ebe-4afc-911c-61484df33dbf)
