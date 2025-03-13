@@ -31,4 +31,3 @@ The dataset includes:
 6. Conclusion
 By analyzing coffee bean sales data, this study will provide actionable insights into how pricing affects customer purchasing decisions. The findings will assist coffee retailers and producers in refining their pricing models, targeting the right customer segments, and enhancing overall sales performance.
 
-![image](https://github.com/user-attachments/assets/eba339a3-8ebe-4afc-911c-61484df33dbf)
